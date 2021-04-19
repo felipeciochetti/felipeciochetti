@@ -1,11 +1,10 @@
-### Hi there, I'm Luiz Ciochetti  👋
+## Hi there, I'm Luiz Ciochetti  👋
 
 
-## I'm software engineer !!
+### I'm software engineer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to soccer, gym and run
+- ⚡ Fun fact: I love  soccer, gym and run
 
 <br />
 
