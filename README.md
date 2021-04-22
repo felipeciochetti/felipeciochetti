@@ -3,8 +3,9 @@
 
 ### I'm software engineer !!
 
+- ☕️ I passed 98% Oracle Certified Java Programmer(OCJP) 😁
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love  soccer, gym and run
+- ⚡ Fun fact: I love soccer ⚽️, gym 💪🏻 and run 🏃‍♂️ 
 
 <br />
 
